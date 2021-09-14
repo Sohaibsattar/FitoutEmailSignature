@@ -1,0 +1,207 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 650px;
+	 height: 200px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 650px;
+	 height: 200px;
+	 z-index:1;
+} 
+
+ #Shape 
+{ 
+	 left: 334px; 
+	 top: 161px; 
+	 position: absolute; 
+	 width: 907px;
+	 height: 625px;
+	 z-index:2;
+} 
+
+ #Shape_0 
+{ 
+	 left: 224px; 
+	 top: 1px; 
+	 position: absolute; 
+	 width: 14px;
+	 height: 198px;
+	 z-index:3;
+} 
+
+ #Shape_1 
+{ 
+	 left: 469px; 
+	 top: 54px; 
+	 position: absolute; 
+	 width: 33px;
+	 height: 51px;
+	 z-index:4;
+} 
+
+ #Shape_2 
+{ 
+	 left: 410px; 
+	 top: 68px; 
+	 position: absolute; 
+	 width: 33px;
+	 height: 50px;
+	 z-index:5;
+} 
+
+ #Shape_3 
+{ 
+	 left: -65px; 
+	 top: -26px; 
+	 position: absolute; 
+	 width: 286px;
+	 height: 251px;
+	 z-index:6;
+} 
+
+ #Shape_4 
+{ 
+	 left: 392px; 
+	 top: 172px; 
+	 position: absolute; 
+	 width: 433px;
+	 height: 226px;
+	 z-index:7;
+} 
+
+ #Shape_5 
+{ 
+	 left: -240px; 
+	 top: -26px; 
+	 position: absolute; 
+	 width: 269px;
+	 height: 410px;
+	 z-index:8;
+} 
+
+ #VectorSmartObject 
+{ 
+	 left: 429px; 
+	 top: -377px; 
+	 position: absolute; 
+	 width: 224px;
+	 height: 511px;
+	 z-index:9;
+} 
+
+ #Men 
+{ 
+	 left: 247px; 
+	 top: 17px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 28px;
+	 z-index:10;
+} 
+
+ #Layer1 
+{ 
+	 left: 7px; 
+	 top: 9px; 
+	 position: absolute; 
+	 width: 200px;
+	 height: 182px;
+	 z-index:11;
+} 
+
+ #Website 
+{ 
+	 left: 284px; 
+	 top: 99px; 
+	 position: absolute; 
+	 width: 207px;
+	 height: 86px;
+	 z-index:12;
+} 
+
+ #SubTitle 
+{ 
+	 left: 285px; 
+	 top: 19px; 
+	 position: absolute; 
+	 width: 168px;
+	 height: 27px;
+	 z-index:13;
+} 
+
+ #Email 
+{ 
+	 left: 244px; 
+	 top: 162px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 28px;
+	 z-index:14;
+} 
+
+ #web 
+{ 
+	 left: 244px; 
+	 top: 126px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 28px;
+	 z-index:15;
+} 
+
+ #Call 
+{ 
+	 left: 244px; 
+	 top: 90px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 28px;
+	 z-index:16;
+} 
+
+ #YouCanFitOut2LLC 
+{ 
+	 left: 510px; 
+	 top: 147px; 
+	 position: absolute; 
+	 width: 132px;
+	 height: 11px;
+	 z-index:17;
+} 
+
+ #Rectangle2 
+{ 
+	 left: 512px; 
+	 top: 7px; 
+	 position: absolute; 
+	 width: 131px;
+	 height: 131px;
+	 z-index:18;
+} 
+
+ #HEV16002857467981 
+{ 
+	 left: 517px; 
+	 top: 12px; 
+	 position: absolute; 
+	 width: 120px;
+	 height: 122px;
+	 z-index:19;
+} 
